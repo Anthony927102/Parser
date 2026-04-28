@@ -284,7 +284,6 @@ int scanner(tokentype &tt, string &w)
     return tt;
   } else {
   // lexical error
-  cout << "Lexical error: " << w << " is not a valid token" << endl;
   tt = ERROR;
   return tt;
   }
@@ -294,6 +293,7 @@ int scanner(tokentype &tt, string &w)
 // This will go away after this assignment
 // DO NOT CHANGE THIS!!!!!!
 // Done by:  Louis
+/*
 int main()
 {
   tokentype thetype;
@@ -321,3 +321,4 @@ int main()
   fin.close();
 
 } // end
+*/

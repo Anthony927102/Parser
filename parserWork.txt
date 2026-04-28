@@ -7,25 +7,38 @@ Must have divided the work as specified.
 If the member did not fully contribute to the assigned part, do not list his/her name!
 
 1.State who did what by indicating: 
-  Member A tasks (syntax error functions) - who:
-  Member B tasks (match and next_token)- who:
-  Member C tasks (main()) who:
+  Member A tasks (syntax error functions) - who: Andy and Daniel
+  Member B tasks (match and next_token)- who: Anthony P and Daniel
+  Member C tasks (main()) who: Andy
   Who wrote which parser functions? 
   functions             who
   ----------------      ----------
+  void story()          Andy &  Javier
+  void s()              Javier
+  void noun()           Javier
+  void afterSubject()   Anthony P
+  void afterNoun()      Javier
+  void afterObject()    Andy
+  void verb()           Andy
+  void tense()          Anthony P
+  void be()             Daniel 
 
 2.  Who came to the meeting to test the program together?
+    Everyone
 
 3.  You have included all the required comments? 
     (Grammer: and Done by: )
+    Yes
 
 4.  The parser produced correct output for 
     all 6 test cases?
+    Yes
 
 5.  What extra credit feature did you include?
     If it is error correction, did you make sure errors.txt
     got produced?
     [ You may still do EC later ]
+    No EC yet.
         
 checkIt_LK in 24 hours and immediately correct and resubmit.     
 
